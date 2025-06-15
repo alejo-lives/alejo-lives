@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alejandro Díaz Osorio
 
-<!--
-**alejo-lives/alejo-lives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero en formación | Desarrollador Fullstack
 
-Here are some ideas to get you started:
+Soy un apasionado por la tecnología y la programación.
+Actualmente estudio Ingeniería de Sistemas y Telecomunicaciones, y me enfoco en aprender construyendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: Astro · React · TailwindCSS · HTML · CSS · JS/TS  
+- **Backend**: Python, Java, C#  
+- **Bases de datos**: MySQL · MongoDB  
+
+---
+## 📬 ¿Conectamos?
+
+- 🌐 [Mi portafolio](https://alejandrodiazosorio.netlify.app/)
+- 📧 [Mi e-mail](osoriodiazalejandro@gmail.com)
+- 🐦 [Mi cuenta de X](https://twitter.com/alejolives)  
+- 💼 Siempre abierto a nuevas ideas, feedback o colaboraciones.
+
+---
+
+_“Del fracaso se aprende... del éxito no mucho.”_
