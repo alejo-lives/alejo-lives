@@ -1,7 +1,4 @@
 # 👋 ¡Hola! Soy Alejandro Díaz Osorio
-<p align="center">
-<img align="center" width="200" src="https://github.com/user-attachments/assets/292f9b21-888e-4f6d-8d03-451f43727204">
-</p>
 
 ### Ingeniero en formación | Desarrollador Fullstack
 
